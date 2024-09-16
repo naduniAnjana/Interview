@@ -43,6 +43,7 @@ class _HomePageState extends State<HomePage> {
             ),
           ),
 
+          // title of the page
           const Padding(
             padding: EdgeInsets.symmetric(vertical: 100, horizontal: 75),
             child: Text(
